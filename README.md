@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lis Maria
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning UI Design
-- 💞️ I’m looking to collaborate on Web Development projects using MEAN Stack
+- 👀 I’m interested in Web Development and UI Design
+- 🌱 I’m currently learning Core Java
+- 💞️ I’m looking to collaborate on Web Development projects using MEAN Stack and Django Framework
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/lismariasaju)
 
 <!---
