@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Lis Maria.
 - 👀 I’m interested in Web Development and UI Design.
-- 🌱 I’m currently learning Machine Learning!
+- 🌱 I’m currently learning Cybersecurity!
+- ⚒️ I have experience in the areas of Web Development, UI Design, Machine Learning, Deep Learning and Cybersecurity.
 - 💞️ I’m looking to collaborate on Web Development and UI Design projects!
 - 📫 Connect with me on [Linkedin](https://www.linkedin.com/in/lismariasaju).
 - 📝 Checkout my blog at [DEV Community](https://dev.to/lismaria).
